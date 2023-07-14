@@ -1,0 +1,26 @@
+// import React from "react";
+// import "./styles.css";
+// import GoogleLogin from "react-google-login";
+
+// export default function App() {
+//   const responseGoogle = (response) => {
+//     console.log(response);
+//   };
+//   return (
+//     <div className="App">
+//       <h3>{<br />}</h3>
+//       <h3>Login</h1>
+//       <h3>{<br />}</h3>
+//       <GoogleLogin
+//         clientId="562096680614-69pkmtoc85u5ip1ke4laod605akmrt6m.apps.googleusercontent.com"
+//         buttonText="Sign in with Google"
+//         onSuccess={responseGoogle}
+//         onFailure={responseGoogle}
+//         cookiePolicy={"single_host_origin"}
+//         theme="dark"
+//         Navigate="./HomePage"
+//       />
+//       <h3>{<br />}</h3>
+//     </div>
+//   );
+// }
