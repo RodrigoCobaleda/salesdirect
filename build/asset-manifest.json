@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MTC-Project/static/css/main.b13fb678.css",
-    "main.js": "/MTC-Project/static/js/main.f4be314e.js",
-    "static/js/787.9ea13033.chunk.js": "/MTC-Project/static/js/787.9ea13033.chunk.js",
-    "static/media/DMSans-Regular.ttf": "/MTC-Project/static/media/DMSans-Regular.4ee96395e07a04577aab.ttf",
-    "static/media/DMSans-Bold.ttf": "/MTC-Project/static/media/DMSans-Bold.c423ce2dc1d85bc50799.ttf",
-    "static/media/logo.png": "/MTC-Project/static/media/logo.c61581e8f6817d157986.png",
-    "index.html": "/MTC-Project/index.html",
-    "main.b13fb678.css.map": "/MTC-Project/static/css/main.b13fb678.css.map",
-    "main.f4be314e.js.map": "/MTC-Project/static/js/main.f4be314e.js.map",
-    "787.9ea13033.chunk.js.map": "/MTC-Project/static/js/787.9ea13033.chunk.js.map"
+    "main.css": "/salesdirect/static/css/main.6f7fcd1d.css",
+    "main.js": "/salesdirect/static/js/main.e59b5235.js",
+    "static/js/787.e0d7d188.chunk.js": "/salesdirect/static/js/787.e0d7d188.chunk.js",
+    "static/media/DMSans-Regular.ttf": "/salesdirect/static/media/DMSans-Regular.4ee96395e07a04577aab.ttf",
+    "static/media/DMSans-Bold.ttf": "/salesdirect/static/media/DMSans-Bold.c423ce2dc1d85bc50799.ttf",
+    "static/media/logo.png": "/salesdirect/static/media/logo.c61581e8f6817d157986.png",
+    "index.html": "/salesdirect/index.html",
+    "main.6f7fcd1d.css.map": "/salesdirect/static/css/main.6f7fcd1d.css.map",
+    "main.e59b5235.js.map": "/salesdirect/static/js/main.e59b5235.js.map",
+    "787.e0d7d188.chunk.js.map": "/salesdirect/static/js/787.e0d7d188.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b13fb678.css",
-    "static/js/main.f4be314e.js"
+    "static/css/main.6f7fcd1d.css",
+    "static/js/main.e59b5235.js"
   ]
 }
